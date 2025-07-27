@@ -10,12 +10,10 @@ export function SiteFooter() {
             <Headphones className="h-5 w-5" />
             <span className="font-bold">CTRL+Shift</span>
           </Link>
-          <p className="text-center text-sm leading-loose text-muted-foreground md:text-left">
-            © 2023 CTRL+Shift. All rights reserved.
-          </p>
+
         </div>
         <div className="flex gap-4">
-          <Link href="#" className="text-sm text-muted-foreground hover:text-foreground">
+          <Link href="https://open.spotify.com/show/6ipYFRVu8x9LTR9HbRyH4y?si=a342a80deff5464e" className="text-sm text-muted-foreground hover:text-foreground">
             Spotify
           </Link>
           <Link href="#" className="text-sm text-muted-foreground hover:text-foreground">
